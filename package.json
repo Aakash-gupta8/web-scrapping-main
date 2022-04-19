@@ -1,0 +1,20 @@
+{
+  "name": "lectureof8october",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1_CricinfoExtracter.js",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "excel4node": "^1.2.1",
+    "init": "^0.1.2",
+    "jsdom": "^18.1.1",
+    "minimist": "^1.2.6",
+    "pdf-lib": "^1.17.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
